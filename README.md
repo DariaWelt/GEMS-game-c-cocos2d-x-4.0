@@ -12,5 +12,5 @@ cmake .. -G "Visual Studio 16 2019" -AWin32
 ````
 
 # Gameplay
-![figure1](https://github.com/DariaWelt/GEMS-game-c-cocos2d-x-4.0/master/Resources/gameplay1.png)
-![figure2](https://github.com/DariaWelt/GEMS-game-c-cocos2d-x-4.0/master/Resources/gameplay2.png)
+![figure1](https://github.com/DariaWelt/GEMS-game-c-cocos2d-x-4.0/blob/master/Resources/gameplay1.png)
+![figure2](https://github.com/DariaWelt/GEMS-game-c-cocos2d-x-4.0/blob/master/Resources/gameplay1.png)
